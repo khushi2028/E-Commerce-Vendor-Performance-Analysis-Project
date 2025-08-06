@@ -1,0 +1,8 @@
+2025-07-19 13:19:06,760-INFO-Ingesting begin_inventory.csv in db
+2025-07-19 13:19:09,525-INFO-Ingesting end_inventory.csv in db
+2025-07-19 13:19:18,237-INFO-Ingesting purchases.csv in db
+2025-07-19 13:20:01,718-INFO-Ingesting purchase_prices.csv in db
+2025-07-19 13:20:23,290-INFO-Ingesting sales.csv in db
+2025-07-19 13:28:52,284-INFO-Ingesting vendor_invoice.csv in db
+2025-07-19 13:28:52,454-INFO-------INGESTION COMPLETE--------
+2025-07-19 13:28:52,462-INFO-Total time taken for indestion is 9.767141429583232 minutes
