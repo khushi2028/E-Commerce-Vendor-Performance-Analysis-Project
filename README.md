@@ -74,7 +74,8 @@ Additionally, **AI tools** were leveraged for **research, insight validation, an
 ## 📂 Repository Contents  
 - **`Vendor_Performance_Analysis.ipynb`** – Python EDA notebook  
 - **`Exploratory_Data_Analysis.ipynb`** – Detailed EDA & statistical analysis  
-- **`Vendor_Performance_Analysis.pbix`** – Power BI dashboard  
+- **`Vendor_Performance_Analysis.pbix`** – Power BI dashboard
+- **`E-Commerce_Vendor_Performance_Analysis_Project_Report.pdf`** – Project Report 
 - **`README.md`** – Project documentation  
 
 ---
