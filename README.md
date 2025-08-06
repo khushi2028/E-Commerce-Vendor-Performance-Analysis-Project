@@ -91,6 +91,6 @@ Additionally, **AI tools** were leveraged for **research, insight validation, an
 ## 👤 Author  
 **Khushi Gupta**  
 📧 Email: [khushig2882@gmail.com]  
-🔗 [LinkedIn Profile](www.linkedin.com/in/khushi-gupta-5892772b6)  
+🔗 [LinkedIn Profile]([www.linkedin.com/in/khushi-gupta-5892772b6](https://www.linkedin.com/in/khushi-gupta-5892772b6/))  
 
 ---
